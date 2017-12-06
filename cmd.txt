@@ -1,1 +1,1 @@
-docker run -it -v ~/320-final-project/:/home/jovyan/notebooks --rm -p 8888:8888 jupyter/datascience-notebook
+docker run -it -v ~/college-park-arrests/:/home/jovyan/notebooks --rm -p 8888:8888 jupyter/datascience-notebook
